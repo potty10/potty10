@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me
-I am an enthusiast in literally anything related to Computer Science or Mathematics, and I enjoy reading about these topics in my free time. I aspire to make a positive impact on the community through technology and mathematics, and that includes being an awesome software engineer.
+I am an enthusiast in anything related to Computer Science or Mathematics, and I enjoy reading about these topics in my free time. I aspire to make a positive impact on the community through technology and mathematics, and that includes being an awesome software engineer.
 
 - 📕 I am currently learning more about current trends in machine learning and AI.
 - 💻 I am also interested in cybersecurity, particularly in peneration testing and cryptography. Feel free to explore my [HTB](https://app.hackthebox.com/profile/activity/1595713) Profile and [TryHackMe](https://tryhackme.com/p/solarpanda7) Profile.
